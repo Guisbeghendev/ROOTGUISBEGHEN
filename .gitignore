@@ -1,0 +1,30 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Django
+db.sqlite3
+*.log
+staticfiles/
+
+# Virtual environment
+venv/
+.env
+
+# IDE
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.suo
+*.pdb
+*.pydevproject
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
