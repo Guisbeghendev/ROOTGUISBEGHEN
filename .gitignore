@@ -28,6 +28,3 @@ venv/
 # Windows
 Thumbs.db
 Desktop.ini
-
-# Ignore .htaccess file
-.htaccess
